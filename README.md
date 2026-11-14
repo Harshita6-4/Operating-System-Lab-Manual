@@ -13,7 +13,7 @@ University Roll No.: 2025217
 
 Subject: Operating System Lab
 
-Faculty Name: Dr. Shiddhant Thapliya
+Faculty Name: Dr. Shiddhant Thapliyal
 
 University: Graphic Era Deemed to be University, Dehradun
 
@@ -91,6 +91,6 @@ Class Roll No.: 29
 
 University Roll No.: 2025217
 
-Faculty: Dr. Shiddhant Thapliya
+Faculty: Dr. Shiddhant Thapliyal
 
 Graphic Era Deemed to be University, Dehradun
